@@ -1,0 +1,2 @@
+# AppCore
+App Core
